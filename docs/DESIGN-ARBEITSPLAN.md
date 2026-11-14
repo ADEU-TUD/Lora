@@ -1,6 +1,6 @@
 # Design-Arbeitsplan Lora (APD)
 
-Stand: 14.11.2026 (neu: **Editoren wie Google Docs und Word** – APD-15 Dokument-Editor, APD-16 Folien/Gestalten/Whiteboard,
+Stand: 14.11.2026 (neu aus der Werkzeug-Analyse: **APD-18 Barrierefreiheit der App**, **APD-19 Hilfe zur aktuellen Ansicht** unter *Später*) · 14.11.2026 (neu: **Editoren wie Google Docs und Word** – APD-15 Dokument-Editor, APD-16 Folien/Gestalten/Whiteboard,
 APD-17 Videoeditor; Wunsch des Hauptnutzers, nur die Editoren; die Funktionen dazu stehen im allgemeinen Arbeitsplan als
 AP-125 bis AP-130) · 13.11.2026 (APD-01 Review durchgeführt; die Pakete APD-02 bis APD-14 daraus wurden verworfen, ihre
 Nummern bleiben unbenutzt) · Lebendes Dokument: Status hier pflegen,
@@ -86,7 +86,7 @@ Gilt als Abnahme jedes Pakets. Je Bildschirm:
 | Abschnitt | Pakete |
 | --- | --- |
 | **Jetzt** (14.11.2026, Editoren) | ~~APD-17a Videoeditor: Richtung wählen~~ ☑ („A mit B“) · **APD-15 Dokument-Editor aufgeräumt wie Google Docs ◐** · **APD-16 Folien, Gestalten, Whiteboard im selben Rahmen ☐** · **APD-17b Videoeditor übersichtlich ☐** |
-| **Später** | – |
+| **Später** (14.11.2026, Werkzeug-Analyse) | **APD-18 Barrierefreiheit der App (BITV) ☐** · **APD-19 Hilfe zur aktuellen Ansicht ☐** |
 | **Erledigt** | APD-01 Umfassendes UI-Review (13.11.2026; Pakete daraus verworfen) · Grundlage: AP-123 *Bedienelemente aus einem Guss* (allgemeiner Arbeitsplan, 1.0.71) |
 
 ---
@@ -190,7 +190,20 @@ fragen (wie AP-121); Vorher/Nachher-Bilder; `VideoLayoutTest`, `VideoEaseTest`, 
 
 ## Später
 
-–
+Aus der Werkzeug-Analyse (14.11.2026, vom Hauptnutzer übernommen); Reihenfolge nach den Editor-Paketen unter *Jetzt*,
+im allgemeinen Arbeitsplan nach AP-142.
+
+### APD-18 ☐ Barrierefreiheit der App selbst (BITV) · M–L (Analyse Q-09)
+**Ziel**: Jedes Werkzeug ist vollständig mit der Tastatur bedienbar (sinnvolle Fokusreihenfolge, sichtbarer Fokus,
+Esc/Enter wie gewohnt) und mit dem Screenreader (NVDA unter Windows, TalkBack auf Android) verständlich – Beschriftungen,
+Rollen, Zustände. Kontraste aller Stile nach WCAG 2.1 AA. Für Kolleg:innen mit Einschränkungen und die Pflichten der TU.
+**Prüfmaßstab**: ein Durchgang je Werkzeug nur mit Tastatur und einer mit NVDA; automatischer Test für fehlende
+Beschriftungen und Kontraste (erweitert `AccessibilityTest`); Vorher/Nachher-Bilder des Fokus.
+
+### APD-19 ☐ Hilfe zur aktuellen Ansicht · S–M (Analyse Q-14)
+**Ziel**: „?“ in jedem Werkzeug öffnet eine kurze, bebilderte Hilfe genau zu dieser Ansicht (offline, auch Englisch) mit
+den wichtigsten Handgriffen und Tasten und bietet die passende Tour (AP-41) an; Lora kann auf die Hilfe verweisen.
+**Prüfmaßstab**: jede Werkzeug-Ansicht hat eine Hilfe (Test), Bilder aus den Tests; Vorher/Nachher-Bilder.
 
 ## Ideen
 

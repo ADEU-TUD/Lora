@@ -1,6 +1,6 @@
 # Arbeitsplan Lora (bis 1.0.43 „ADEU LLM“) – Runde 2
 
-Stand: 14.11.2026 (neu: **Office und Video wie Google Docs und Word** – AP-125 bis AP-130, Oberfläche dazu als APD-15 bis APD-17 im [Design-Arbeitsplan](DESIGN-ARBEITSPLAN.md); kommen vor den übrigen Paketen) · 13.11.2026 (neu: **Design-Arbeitsplan** [`DESIGN-ARBEITSPLAN.md`](DESIGN-ARBEITSPLAN.md) mit Paketen APD-xx für Aussehen und Bedienbarkeit; AP-124 dorthin verschoben als APD-01) · 13.11.2026 (AP-123 Bedienelemente aus einem Guss freigegeben und in `main`, für 1.0.71; Prüfung am Gerät offen) · 13.11.2026 (AP-122 Lora neu gezeichnet und lebendiger: vom Hauptnutzer freigegeben, in der App, für 1.0.70 zusammen mit AP-121; Prüfung am Gerät offen) · 13.11.2026 (AP-121 Videoeditor für Einsteiger in der App, für 1.0.70; Prüfung am Gerät offen) · 11.11.2026 (Sitzung Dateiwerkzeuge: AP-90 Rest, AP-91, AP-93, AP-97 bis AP-100, AP-107 Rest, neu AP-119 und AP-120 in der App, Prüfung am Gerät offen) · 11.11.2026 (AP-112 und AP-116 in der App, Messung am Gerät offen; AP-117 erledigt; AP-118 Server-Terminal in der App, am eigenen Server zu prüfen) · 10.11.2026 (1.0.67 veröffentlicht: AP-86, AP-103, AP-111 und AP-115 erledigt; AP-90, AP-95, AP-105 bis AP-108 und AP-110 in der App, Messungen bzw. Tests am Gerät offen; AP-67 offen; neu: AP-116 lokale Modelle auf dem Handy zu langsam, nicht abbrechbar, Gerät heiß) · Lebendes Dokument: Status hier pflegen, erledigte Pakete abhaken und in der README beschreiben.
+Stand: 14.11.2026 (neu aus der **Werkzeug-Analyse**: AP-131 bis AP-154, dazu APD-18/APD-19; zuerst AP-131 Server-Terminal und AP-132 Entwicklung · 1.0.72 veröffentlicht mit AP-125 (c) bis (e)) · 14.11.2026 (neu: **Office und Video wie Google Docs und Word** – AP-125 bis AP-130, Oberfläche dazu als APD-15 bis APD-17 im [Design-Arbeitsplan](DESIGN-ARBEITSPLAN.md); kommen vor den übrigen Paketen) · 13.11.2026 (neu: **Design-Arbeitsplan** [`DESIGN-ARBEITSPLAN.md`](DESIGN-ARBEITSPLAN.md) mit Paketen APD-xx für Aussehen und Bedienbarkeit; AP-124 dorthin verschoben als APD-01) · 13.11.2026 (AP-123 Bedienelemente aus einem Guss freigegeben und in `main`, für 1.0.71; Prüfung am Gerät offen) · 13.11.2026 (AP-122 Lora neu gezeichnet und lebendiger: vom Hauptnutzer freigegeben, in der App, für 1.0.70 zusammen mit AP-121; Prüfung am Gerät offen) · 13.11.2026 (AP-121 Videoeditor für Einsteiger in der App, für 1.0.70; Prüfung am Gerät offen) · 11.11.2026 (Sitzung Dateiwerkzeuge: AP-90 Rest, AP-91, AP-93, AP-97 bis AP-100, AP-107 Rest, neu AP-119 und AP-120 in der App, Prüfung am Gerät offen) · 11.11.2026 (AP-112 und AP-116 in der App, Messung am Gerät offen; AP-117 erledigt; AP-118 Server-Terminal in der App, am eigenen Server zu prüfen) · 10.11.2026 (1.0.67 veröffentlicht: AP-86, AP-103, AP-111 und AP-115 erledigt; AP-90, AP-95, AP-105 bis AP-108 und AP-110 in der App, Messungen bzw. Tests am Gerät offen; AP-67 offen; neu: AP-116 lokale Modelle auf dem Handy zu langsam, nicht abbrechbar, Gerät heiß) · Lebendes Dokument: Status hier pflegen, erledigte Pakete abhaken und in der README beschreiben.
 Runde 1 (AP-01 bis AP-37) ist erledigt und steht ausführlich in [`ARBEITSPLAN-RUNDE-1.md`](ARBEITSPLAN-RUNDE-1.md).
 
 **Design steht im Design-Arbeitsplan** (seit 13.11.2026): Pakete zu Aussehen, Bedienbarkeit und Nutzerfreundlichkeit
@@ -76,6 +76,7 @@ Fairlight).
 | ~~Lora im Alltag~~ ☑ | AP-74 Fehlermeldungen in Klartext · AP-75 Lora-Verlauf mit „Nochmal“ · AP-76 Sprachmodell-Empfehlung nach Messung · AP-77 Probelauf und „Alles rückgängig“ · AP-78 Eigene Wörter und Wissenspakete · AP-79 Hausstil- und Barrierefreiheits-Check · AP-80 Rollenauswahl · AP-81 Videoexport-Warteschlange · AP-82 Vorschau für Video und Ton · AP-83 Lora-Pakete teilen · AP-84 Lora in mehreren Fenstern · AP-85 Große Anhänge vollständig nutzen (erledigt 10.11.2026, siehe *Erledigt*) |
 | **Danach** | ~~AP-86 Lokale Modelle auf dem Mac laden~~ ☑ (10.11.2026, 1.0.67) |
 | **Runde 3 – Lora offline** | AP-105 Geräteprofil und Messung ◐ · AP-106 Modellkatalog in feinen Stufen, nach Zweck ◐ · AP-107 Suche nach Bedeutung auf dem Gerät ◐ (Rest in der App) · AP-108 Lange Texte lokal ◐ · AP-109 Lora selbst lokal · AP-110 Bilder verstehen lokal ◐ · AP-111 Sprachausgabe lokal ☑ · AP-112 Offline-Schiene in der Oberfläche ◐ · AP-104 Lora Postfach · AP-113 Lora Namensschutz Runde 3 · AP-114 Lora Befehle nachtrainieren · AP-115 Reste aus 1.0.66 ☑ · **AP-116 Lokale Modelle: Tempo, Abbruch, Hitze ◐** (Fehler aus 1.0.67, vor AP-109) · ~~AP-117 Eigene Modelle aktualisieren, auf GitHub~~ ☑ (11.11.2026) |
+| **Neu (14.11.2026, Werkzeug-Analyse)** | **Jetzt:** AP-131 Server-Terminal ausbauen · AP-132 Entwicklung: schnellere Tests, Vorher/Nachher auf Knopfdruck · AP-133 Geführte Prüfung am Gerät · AP-134 Nichts geht verloren · **Danach:** AP-135 Schneller finden und arbeiten · AP-136 Interviews auswerten · AP-137 PDF im Stapel · AP-138 Literatur · AP-139 Mail im Alltag · AP-140 Dokumente: Formulare, Sprache · AP-141 Präsentation wird Lehrvideo · AP-142 Lora kann alles · AP-143 Zwischen Werkzeugen · AP-144 Tabellen, Teil 2 · AP-145 Statistik-Assistent · AP-146 Folien für die Lehre · AP-147 Video für die Lehre · AP-148 Gestalten, Teil 2 · AP-149 PDF, Teil 2 · AP-150 Transkription im Alltag · AP-151 Dateien und Scanner · AP-152 Tresor · AP-153 Große Werke und LaTeX · AP-154 Kalender über den Server (wartet) · Design: APD-18, APD-19 |
 | **Neu (14.11.2026, Office und Video)** | **AP-125 Dokumente verhalten sich wie Word ◐** · **AP-126 Dokumente: Funktionsumfang wie Word und Google Docs ☐** · **AP-127 Folien, Gestalten, Whiteboard: anfassen wie PowerPoint und Canva ☐** · **AP-128 Video: Datenschutz in Unterrichtsvideos ☐** · **AP-129 Video: was im Alltag fehlt ☐** · **AP-130 Video: flüssige Vorschau ☐** (Oberfläche dazu: APD-15 bis APD-17 im [Design-Arbeitsplan](DESIGN-ARBEITSPLAN.md); vor den übrigen Paketen) |
 | **Neu (13.11.2026, Bedienung)** | ~~AP-124 Die ganze App weiter verbessern~~ → **APD-01** im [Design-Arbeitsplan](DESIGN-ARBEITSPLAN.md) · **AP-123 Bedienelemente aus einem Guss ◐** (Knöpfe nach Stil, Dialoge mit Hauptknopf und Enter/Esc, rote Lösch-Knöpfe, Tooltips an Symbol-Knöpfen, Passwort-Auge, Hinweis-Banner, Bildlaufleisten am PC; freigegeben, Prüfung am Gerät offen) |
 | **Neu (13.11.2026)** | **AP-121 Videoeditor für Einsteiger ◐** (Startseite, „So entsteht dein Video“, einfach schneiden, Rechtsklick, klarere Leisten; Prüfung am Gerät offen) |
@@ -102,6 +103,61 @@ ebenfalls in einem eigenen Chat; auch dort kommt der Messkorpus vor jedem Traini
 ---
 
 ## Jetzt
+
+**Reihenfolge ab 14.11.2026 (Hauptnutzer nach der Werkzeug-Analyse)**: Aus der Analyse „Wie die Werkzeuge in Lora besser
+werden“ ([`WERKZEUG-ANALYSE.md`](WERKZEUG-ANALYSE.md), 85 Vorschläge, 80 übernommen; Nummern wie *Q-01* stehen bei der jeweiligen Stufe) sind AP-131 bis AP-154 und
+APD-18/APD-19 geworden. Server-Terminal und Entwicklung zuerst, danach die empfohlene Reihenfolge:
+**AP-131** (Terminal) → **AP-132** (Entwicklung) → **AP-125 (f)** (Reste Dokument) → **AP-133** (Prüfung am Gerät) →
+**AP-134** (nichts geht verloren) → wie bisher **AP-126** → **APD-16 + AP-127** → **APD-17b + AP-130** → **AP-128** →
+**AP-129** → dann *Danach* der Reihe nach ab **AP-135**. Nicht übernommen: Q-08 Tempo großer Dateien, D-06 Serienbrief im
+Editor, D-07 Zusammenführen über die Cloud, T-04 Notenliste, E-03 große Dateien aufteilen.
+
+### AP-131 ☐ Server-Terminal ausbauen: Dateien, Verbindungen, Tabs · M–L (Analyse S-01 bis S-03, Hauptnutzer zuerst, D)
+**Ziel**: Das Server-Terminal (AP-118) ersetzt PuTTY **und** WinSCP für den Alltag an den eigenen Servern.
+- **(a) Gespeicherte Verbindungen und SSH-Schlüssel** (S-02): Verbindungen mit Namen, Host, Nutzer, Port, Schlüssel
+  speichern und mit einem Klick öffnen; Schlüsselpaar erzeugen (Ed25519), öffentlichen Schlüssel kopieren bzw. auf den
+  Server legen (`authorized_keys`, nach Zustimmung), privaten Schlüssel im Tresor bzw. geschützt im Lora-Ordner; vorhandene
+  Schlüssel (OpenSSH, PuTTY `.ppk`) einlesen; bekannte Hosts mit Fingerabdruck-Prüfung.
+- **(b) Dateien per SFTP** (S-01): Seitenfenster mit dem Verzeichnis des Servers (folgt auf Wunsch dem `cd` im Terminal),
+  hoch- und herunterladen per Ziehen aus *Dateien* und dem Explorer, umbenennen, löschen (mit Rückfrage), Rechte anzeigen;
+  Textdateien direkt öffnen und zurückspeichern; Fortschritt und Abbrechen bei großen Dateien.
+- **(c) Mehrere Sitzungen in Tabs** (S-03): mehrere Server nebeneinander, Tab-Namen und Farbe je Verbindung, Lora sieht,
+  in welcher Sitzung sie hilft; eine Zeile an mehrere Sitzungen schicken nur nach ausdrücklicher Bestätigung.
+**Fertig, wenn**: ein Server mit Schlüssel eingerichtet, eine Konfigurationsdatei geholt, geändert und zurückgelegt und in
+zwei Tabs parallel gearbeitet werden kann, ohne die App zu verlassen; Tests mit einem SSH/SFTP-Testserver im Prozess
+(Muster `ServerTerminalTest`).
+
+### AP-132 ☐ Entwicklung: schnellere Tests und Vorher/Nachher auf Knopfdruck · M (Analyse E-01, E-02, Hauptnutzer zuerst)
+**Ziel**: Änderungen sind schneller geprüft, Design-Stufen schneller gezeigt.
+- **(a) Schnellere Tests für PRs** (E-01): Heute braucht die ganze Desktop-Sammlung lokal etwa 27 Minuten (879+ Tests,
+  zwei Worker). Tests nach Bereichen kennzeichnen (Kern, Dokumente, Tabellen, Folien, Video, PDF, Mail, Lora …); der
+  PR-Check prüft Kern plus die Bereiche, deren Dateien der PR ändert; die volle Sammlung läuft vor jedem Release (und
+  nachts, falls Minuten reichen). Langsame Tests messen und die zehn langsamsten beschleunigen (gemeinsame Test-App statt
+  Neuaufbau, weniger Wartezeit in `settle`). Gradle-Abhängigkeiten zwischenspeichern, damit Maven Central nicht drosselt.
+- **(b) Vorher/Nachher automatisch** (E-02): Ein Gradle-Task baut den Stand von `main` in einem eigenen Arbeitsverzeichnis,
+  lässt dieselben Bild-Tests (`*LookTest`) dort und im Zweig laufen und erzeugt die Vergleichsseite mit Bildpaaren,
+  Abweichung in Prozent und markierten Stellen – für jede Design-Stufe (Grundsatz des Design-Arbeitsplans).
+**Fertig, wenn**: ein typischer PR-Check unter 10 Minuten bleibt, ohne dass ein Fehler erst im Release auffällt, und eine
+Vergleichsseite mit einem Befehl entsteht.
+
+### AP-133 ☐ Geführte Prüfung am Gerät · M (Analyse Q-07)
+**Befund**: Viele Pakete stehen auf ◐, weil die Prüfung am Gerät (Windows, Android, macOS) offen ist.
+**Ziel**: Der Rückstau wird gezielt abgebaut. *Einstellungen › Über › Prüfungen* führt Schritt für Schritt durch die
+offenen Prüfungen aller Pakete (aus einer Liste im Repo, je Paket: Schritte, erwartetes Ergebnis, Plattform) – je Schritt
+*Passt / Passt nicht*, Notiz und Bildschirmfoto; am Ende ein Bericht über *Problem melden*. Erledigte Prüfungen verschwinden
+aus der Liste; neue Pakete bringen ihre Prüfschritte mit.
+**Fertig, wenn**: die offenen Prüfungen von AP-120 bis AP-125 in einer Sitzung am Windows-PC durchgegangen werden können.
+
+### AP-134 ☐ Nichts geht verloren: Wiederherstellen und Verlauf · M–L (Analyse Q-04, Q-05)
+- **(a) Ungespeicherte Arbeit nach Absturz wiederherstellen** (Q-04): In jedem Editor (Dokument, Tabelle, Folien,
+  Gestalten, Whiteboard, Video, PDF-Markierungen, Transkript-Korrekturen) prüfen, was bei einem Absturz verloren geht;
+  laufend einen Zwischenstand sichern und beim nächsten Start „Ungespeicherte Arbeit wiederherstellen?“ anbieten (mit
+  Vorschau, *Verwerfen*).
+- **(b) Verlauf der Schritte mit Sprung zurück** (Q-05): *Bearbeiten › Verlauf* zeigt die letzten Schritte mit Namen
+  („Spalte gelöscht“, „Bild verkleinert“); ein Klick springt dorthin zurück (danach geht Wiederholen weiter) – zuerst in
+  Dokument, Tabelle, Folien und Video.
+**Fertig, wenn**: ein hart beendeter Prozess in jedem Editor höchstens die letzten Sekunden kostet (Test je Editor) und der
+Verlauf in vier Editoren da ist.
 
 **Office und Video (14.11.2026, Wunsch Hauptnutzer)**: Dokumente, Folien, Gestalten/Whiteboard und der Videoeditor
 sollen flüssiger und intuitiver werden, „wie Google Docs und Word“. Ziel für Dokumente: **ein vollwertiges Produkt** –
@@ -200,6 +256,9 @@ Zeile dort geht auf ihre Wortabstände (`letterSpacing`, gemessen linksbündig, 
 Nebenbei behoben: das PDF übernahm die Ausrichtung von Absätzen und Überschriften gar nicht (`DocumentWriter.alignStyle`:
 zentriert, rechtsbündig, Blocksatz mit Silbentrennung). Tests `FlowBlocksTest`, `ui/DocEditorBlocksTest`, Bilder
 `ui/DocBlocksLookTest`. Offen: Seitenplan berücksichtigt ein Bild, das höher ist als der Text daneben, noch nicht genau.
+**(f) ☐ Reste aus der Werkzeug-Analyse** (14.11.2026, vor AP-133): **eigene Ersetzungen in der Autokorrektur** (D-01,
+Liste unter *Extras › Autokorrektur*, z. B. „mfg“ → „Mit freundlichen Grüßen“) und **Seitenplan für umflossene Bilder genau**
+(D-02: ein Bild, das höher ist als der Text daneben, wird in der Seitenansicht und im PDF richtig eingeplant).
 
 ### AP-126 ☐ Dokumente: Funktionsumfang wie Word und Google Docs · XL (Wunsch Hauptnutzer 14.11.2026, in Stufen)
 **Ziel**: Für die Arbeit an der TU Dresden (Briefe, Protokolle, Anträge, Hausarbeiten bis Dissertation, Skripte) braucht
@@ -524,6 +583,153 @@ mit Lizenz und Modellkarte bei.
 
 AP-72 bis AP-85 sind erledigt (10.11.2026, siehe *Erledigt*). AP-86 ist erledigt (10.11.2026, 1.0.67); weiter mit Runde 3 (AP-105 …).
 AP-67 und AP-71 (Modellziele) werden nachtrainiert und stehen weiter unter *Jetzt*.
+
+**Aus der Werkzeug-Analyse (14.11.2026, Reihenfolge empfohlen und vom Hauptnutzer übernommen)**: AP-135 bis AP-154 der
+Reihe nach, sobald *Jetzt* abgearbeitet ist. Die Nummern in Klammern (Q-01 …) sind die der Analyse.
+
+### AP-135 ☐ Schneller finden und arbeiten · M (Analyse Q-01, Q-02, Q-03, Q-12)
+- **(a) Befehle des Werkzeugs in Strg+K** (Q-01): Wie „Menüs durchsuchen“ in Google Docs – jede Menüfunktion des offenen
+  Editors (Dokument, Tabelle, Folien, Gestalten, Video, PDF, Transkript) ist per Name und Synonym findbar und ausführbar;
+  Strg+K bleibt die eine Befehlssuche (kein zweites Kürzel).
+- **(b) Weiterarbeiten** (Q-02): Startseite und *Erstellen* zeigen die zuletzt bearbeiteten Dateien aller Werkzeuge und
+  öffnen sie an der Stelle, an der man aufgehört hat (Seite, Folie, Zeitmarke, Zelle).
+- **(c) Tastenübersicht je Werkzeug** (Q-03): Strg+/ zeigt zuerst die Tasten des offenen Werkzeugs, darunter die der App.
+- **(d) Strg+P überall** (Q-12): Drucken mit Vorschau aus jedem Editor, dahinter der Druck-Lotse (AP-97).
+**Fertig, wenn**: „Spalte einfügen“, „Untertitel“, „Seitenränder“ über Strg+K im jeweiligen Editor ausführbar sind; Tests.
+
+### AP-136 ☐ Interviews auswerten: Codieren und Pseudonymisieren · L (Analyse TR-01, TR-03, TR-02)
+- **(a) Interviews pseudonymisieren** (TR-03): Namen, Orte und Einrichtungen im Transkript durchgängig durch Pseudonyme
+  ersetzen (Lora Namensschutz plus eigene Liste), Fundstellen zum Prüfen, Schlüsselliste nur im Tresor; Export mit
+  Pseudonymen (Word, REFI-QDA, Untertitel).
+- **(b) Qualitative Codierung im Transkript** (TR-01): Codes an Textstellen (markieren, Code wählen oder anlegen), Codebaum
+  mit Farben, Memos, Übersicht „wo kommt Code X vor“ über mehrere Interviews, einfache Häufigkeiten; Export nach REFI-QDA
+  (`.qdpx`) **mit** Codes und Memos, Import aus MAXQDA über REFI-QDA. Lora schlägt Codes nur vor, ein Mensch entscheidet.
+- **(c) Sprecher wiedererkennen** (TR-02): Stimmprofile auf dem Gerät; „Sprecher 1“ heißt in der nächsten Aufnahme wieder
+  „Prof. X“ (nur auf Wunsch, Profile löschbar).
+**Fertig, wenn**: drei Interviews pseudonymisiert, codiert und mit Codes in MAXQDA geöffnet werden können.
+
+### AP-137 ☐ PDF im Stapel und Seitenarbeit · M (Analyse P-03, P-04, P-05, P-06, D)
+- **(a) Stapelverarbeitung** (P-03): eigener Bereich im Werkzeugkasten – viele PDFs oder ein Ordner auf einmal:
+  Texterkennung, verkleinern, PDF/A, Wasserzeichen, Schwärzen nach Liste, zusammenführen je Unterordner; Fortschritt,
+  Abbrechen, Bericht (was geändert, was übersprungen); dieselben Schritte wie Lora-Abläufe.
+- **(b) Wasserzeichen und Kopfzeile** (P-04): „Entwurf“, „Vertraulich“, Text oder Bild, Datum, „Seite x von y“.
+- **(c) Seiten zwischen Tabs ziehen** (P-05): kopieren (Strg) oder verschieben.
+- **(d) Lesezeichen bearbeiten** (P-06): anlegen, umbenennen, verschachteln, aus Überschriften erzeugen.
+**Fertig, wenn**: ein Ordner mit 50 Scans in einem Lauf durchsuchbar, verkleinert und als PDF/A gespeichert ist; Tests.
+
+### AP-138 ☐ Literatur: Zitierstile, Volltexte, Prüfung · M–L (Analyse L-01 bis L-06)
+- **(a) Beliebige Zitierstile** (L-01): CSL-Stile aus der offiziellen Sammlung oder als Datei (Verlag, Lehrstuhl) laden;
+  die 8 eingebauten bleiben die Auswahl oben.
+- **(b) Zitierprüfung im Dokument** (L-06): jede Quelle im Text hat einen Eintrag und umgekehrt; wörtliche Zitate ohne
+  Seitenangabe markiert.
+- **(c) Volltexte finden** (L-03): freie PDF-Fassung (Open Access) je Eintrag suchen und ablegen.
+- **(d) Citavi übernehmen** (L-02): Import mit Notizen, Schlagwörtern, Kategorien.
+- **(e) Literatur-Wächter** (L-04): nur auf Wunsch, als geplante Aufgabe – neue Paper zu einer gespeicherten Suche einmal
+  pro Woche als Liste (Lora unterbricht nicht).
+- **(f) ISBN/DOI per Kamera** (L-05, Android): Barcode oder DOI fotografieren → Eintrag.
+
+### AP-139 ☐ Mail im Alltag · M (Analyse M-01 bis M-04; Postfach weiter nur mit Modell auf dem Gerät)
+- **(a) Textbausteine** (M-01): häufige Antworten mit Platzhaltern (Name, Termin, Frist); das Modell auf dem Gerät schlägt
+  den passenden vor; Ergebnis bleibt ein Entwurf.
+- **(b) Anhänge automatisch ablegen** (M-02): Regeln (Rechnungen, Abgaben, Gutachten → Ordner im Lora-Ordner) mit Vorschau
+  und Rückgängig.
+- **(c) Terminmappe** (M-03): vor einem Termin die Mails, Dateien und das letzte Protokoll zum Thema in einer Mappe.
+- **(d) Sprechstunden-Zeiten verschicken** (M-04): freie Zeiten als Liste oder ICS für eine Mail.
+
+### AP-140 ☐ Dokumente: Formulare, Sprache, Aufgaben, Übersetzen · L (Analyse D-05, D-03, D-04, D-08, D-11)
+- **(a) Ausfüllbare Formulare** (D-05): Textfeld, Kontrollkästchen, Auswahlliste, Datum einfügen; in Word als
+  Inhaltssteuerelemente, im PDF ausfüllbar; Formular ausfüllen im Editor (nur Felder bearbeitbar).
+- **(b) Geschlechtergerechte Sprache** (D-03): Leitfaden der TU Dresden als Regel der Hausstil-Prüfung (AP-79), Vorschläge
+  im Rechtsklick; Form wählbar.
+- **(c) Lesbarkeit und Leichte Sprache** (D-04): Lesbarkeitswert je Absatz, schwierige Absätze markiert, Lora schlägt
+  einfachere Fassungen vor; Modus „Leichte Sprache“.
+- **(d) Kommentare mit @Person** (D-08): Aufgabe zuweisen, Mail-Entwurf an die Person, offene Aufgaben in der Statusleiste.
+- **(e) Ganzes Dokument übersetzen** (D-11): DE ↔ EN als neue Datei, Formatierung, Tabellen und Bilder bleiben; Glossar.
+Fügt sich in die Menüs von APD-15/AP-126 ein.
+
+### AP-141 ☐ Präsentation wird Lehrvideo · L (Analyse F-01, F-04, F-02, D)
+- **(a) Präsentation aufzeichnen** (F-01): Vorführen mit Mikrofon und auf Wunsch Kamerabild in der Ecke; danach als Projekt
+  im Videoeditor – Folienwechsel als Kapitel, Untertitel aus der Transkription, Datenschutz-Schritte aus AP-128.
+- **(b) Vertonte Präsentation** (F-04): Sprechertexte mit der natürlichen Stimme auf dem Gerät (AP-111) als Video.
+- **(c) Video und Ton auf Folien** (F-02): einbetten, beim Vorführen abspielen, in PowerPoint mitnehmen.
+**Fertig, wenn**: aus einem Foliensatz in unter 10 Minuten ein Lehrvideo mit Kapiteln und Untertiteln für OPAL entsteht.
+
+### AP-142 ☐ Lora kann alles, was die Menüs können · M (Analyse Q-06)
+Ein Test listet jede Menüfunktion aller Editoren ohne Lora-Aktion (AP-38); die Lücken werden geschlossen, sodass „Lora,
+mach …“ in jedem Werkzeug vollständig geht. Der Test bleibt und verhindert neue Lücken.
+
+### AP-143 ☐ Zwischen Werkzeugen und nach außen · M–L (Analyse Q-13, Q-11, Q-10)
+- **(a) Inhalte zwischen Werkzeugen ziehen** (Q-13): Tabellenbereich ins Dokument, Bild aus *Dateien* auf eine Folie,
+  PDF-Seite als Bild ins Poster, Diagramm in die Präsentation (D; Android über Kopieren/Einfügen).
+- **(b) „Herunterladen als …“ mit Verlustanzeige** (Q-11): die Verlustanzeige des Formatwandlers (AP-90) bei jedem Export.
+- **(c) Teilen über die TU-Cloud** (Q-10): Freigabelink in der Nextcloud mit Ablaufdatum und Passwort aus *Dateien* und
+  jedem Editor; Link kopieren oder als Mail-Entwurf.
+
+### AP-144 ☐ Tabellen wie Excel, Teil 2 · L–XL (Analyse T-03, T-02, T-07, T-06, T-08, T-09, T-01, in Stufen)
+- **(a) Zahlen- und Datumsformate** (T-03): Währung, Prozent, Tausender, Nachkommastellen, eigene Formate, Datum/Uhrzeit;
+  Excel-treu beim Öffnen und Speichern.
+- **(b) Bedingte Formatierung bearbeiten** (T-02): Farbskalen, Datenbalken, Regeln.
+- **(c) Zwei Listen abgleichen** (T-07): neu, fehlt, geändert – farbig und als Ergebnisblatt.
+- **(d) Formel Schritt für Schritt** (T-06) · **(e) Diagramme ausbauen** (T-08: Fehlerbalken, zweite Achse, Werte am Punkt,
+  Farben je Reihe) · **(f) Eingabemaske** (T-09).
+- **(g) Echte Pivot-Tabellen** (T-01): Felder ziehen, Filter, als PivotTable nach Excel.
+
+### AP-145 ☐ Statistik-Assistent · M–L (Analyse T-05)
+*Daten auswerten* in Tabellen: beschreibende Statistik, t-Test, Chi², Korrelation, Regression – auf dem Gerät gerechnet
+(Rechen-Sandbox), Erklärung in Klartext, Ergebnissatz im APA-Stil, Ergebnisse als Tabelle neben den Daten; Lora schlägt den
+passenden Test vor und nennt die Voraussetzungen.
+
+### AP-146 ☐ Folien für die Lehre · M–L (Analyse F-03, F-05, F-06, F-07)
+- **(a) Barrierefreiheits-Check** (F-03): Folientitel, Lesereihenfolge, Alternativtexte, Kontrast, mit *Beheben*.
+- **(b) Foliensatz übersetzen** (F-05): Layout und Notizen bleiben, zu lange Texte markiert.
+- **(c) Lückenhandout** (F-06): Handout mit ausgesparten Schlüsselbegriffen und Lösungsblatt.
+- **(d) Abstimmen im Hörsaal** (F-07): Frage-Folie mit QR-Code, Ergebnis live – **zuerst klären**, ob ein vorhandenes
+  Abstimmungswerkzeug der TU angebunden wird oder ein kleiner eigener Dienst nötig ist (Offene Frage).
+
+### AP-147 ☐ Video für die Lehre · M (Analyse VI-01, VI-02, VI-03, D)
+- **(a) Export für Videocampus Sachsen und OPAL** (VI-01): Voreinstellung (Auflösung, Bitrate), Untertitel als VTT daneben,
+  Kapitel, Anleitung zum Hochladen.
+- **(b) Kapitel aus dem Transkript** (VI-02): Lora schlägt Kapitel vor; in der MP4 und als Liste für die Beschreibung.
+- **(c) Untertitel-Prüfung** (VI-03): Zeilenlänge, Lesegeschwindigkeit, Abstände, Lücken – mit Beheben.
+
+### AP-148 ☐ Gestalten und Whiteboard, Teil 2 · M–L (Analyse G-01 bis G-04, D)
+- **(a) Whiteboard für Brainstorming** (G-01): Haftnotizen, Rahmen für Gruppen, Abstimmungspunkte; Lora ordnet die Notizen
+  zu Themen und schreibt ein Ergebnisprotokoll.
+- **(b) Verbinder auf der Gestalten-Leinwand** (G-02, offen aus AP-50/AP-61).
+- **(c) Tagungsposter aus dem Paper** (G-03): Lora füllt die Poster-Vorlage aus einem PDF (Abschnitte, Abbildungen,
+  Literatur, QR-Code) – die TUD-Vorlagen selbst bleiben unverändert.
+- **(d) Druckfarben-Vorschau** (G-04): Softproof in CMYK mit Hinweis auf Farben außerhalb des Druckbereichs.
+
+### AP-149 ☐ PDF: Text bearbeiten, Barrierefreiheit, Literatur, Android · L (Analyse P-01, P-02, P-07, P-08)
+- **(a) Tabellen für PDF/UA erkennen** (P-02, offen aus AP-60): Tags für Tabellen mit Kopfzeilen.
+- **(b) Markierungen werden Literaturnotizen** (P-07): Hervorhebungen und Notizen eines Papers als Exzerpt am Eintrag.
+- **(c) Text wirklich bearbeiten** (P-01): Absatz mit gleicher Schrift und neuem Zeilenumbruch ändern.
+- **(d) Android zieht nach** (P-08, offen aus AP-64): Schwärzen, Passwort, PDF/A auf dem Handy.
+
+### AP-150 ☐ Transkription im Alltag · M (Analyse TR-04, TR-05)
+- **(a) Besprechung → Ergebnisprotokoll mit Aufgaben** (TR-04): aus Aufnahme oder Live-Text ein Ergebnisprotokoll im
+  TUD-Design mit Beschlüssen und Aufgaben (wer, was, bis wann), Aufgaben auf Wunsch als Outlook-Aufgaben.
+- **(b) Ordner über Nacht transkribieren** (TR-05): Stapel in die Warteschlange, Bericht am Morgen.
+
+### AP-151 ☐ Dateien und Scanner, Teil 2 · M–L (Analyse DA-01 bis DA-05)
+- **(a) Eingangsordner einsortieren** (DA-01): Regeln für *Downloads* oder einen Eingangsordner, Vorschau, Rückgängig (D).
+- **(b) Ordner-Vorlagen** (DA-02): „Neues Vorhaben“ legt die übliche Struktur an; eigene Vorlagen.
+- **(c) Speicherplatz-Übersicht** (DA-05): was Platz belegt (Videos, Modelle, Cache, Papierkorb), Aufräumen per Klick.
+- **(d) Scanner: Einzug und doppelseitig** (DA-03, offen aus AP-62, D).
+- **(e) Texterkennung auf Android ohne Server** (DA-04, offen aus AP-62, A).
+
+### AP-152 ☐ Tresor: Fehlversuche und Weitergeben · S–M (Analyse TS-01, TS-02)
+- **(a) Schutz bei Fehlversuchen** (TS-01): wachsende Wartezeit nach falschen PINs, Hinweis beim nächsten Öffnen.
+- **(b) Tresor-Projekt verschlüsselt weitergeben** (TS-02): als verschlüsselte Datei, Passwort getrennt mitteilen.
+
+### AP-153 ☐ Große Werke und LaTeX · L (Analyse D-10, D-09)
+- **(a) Großes Werk aus mehreren Dateien** (D-10): Kapitel-Dateien mit gemeinsamem Inhalts-, Abbildungs- und
+  Literaturverzeichnis und fortlaufenden Nummern (Dissertation, Skript); Export als ein Word/PDF.
+- **(b) LaTeX öffnen** (D-09): `.tex` mit Abschnitten, Formeln, Tabellen und Literatur als Dokument.
+
+### AP-154 ☐ Kalender und Aufgaben über den Server · L (Analyse M-05; wartet auf Offene Frage 3)
+Termine, Frei/Gebucht und Aufgaben auch ohne klassisches Outlook und auf dem Handy – erst, wenn geklärt ist, wie die TU
+Exchange betreibt (EWS oder Graph).
 
 ### AP-86 ☑ Lokale Modelle auf dem Mac laden · S–M (neu, Fehler)
 **Befund (10.11.2026)**: Auf einem Mac mit Apple Silicon (39 GB, Metal) scheitert jeder Download eines lokalen Modells
