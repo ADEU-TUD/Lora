@@ -105,12 +105,13 @@ ebenfalls in einem eigenen Chat; auch dort kommt der Messkorpus vor jedem Traini
 ## Jetzt
 
 **Reihenfolge ab 14.11.2026 (Hauptnutzer nach der Werkzeug-Analyse)**: Aus der Analyse „Wie die Werkzeuge in Lora besser
-werden“ ([`WERKZEUG-ANALYSE.md`](WERKZEUG-ANALYSE.md), 85 Vorschläge, 80 übernommen; Nummern wie *Q-01* stehen bei der jeweiligen Stufe) sind AP-131 bis AP-154 und
+werden“ ([`WERKZEUG-ANALYSE.md`](WERKZEUG-ANALYSE.md), 85 Vorschläge, 79 übernommen; Nummern wie *Q-01* stehen bei der jeweiligen Stufe) sind AP-131 bis AP-154 und
 APD-18/APD-19 geworden. Server-Terminal und Entwicklung zuerst, danach die empfohlene Reihenfolge:
 **AP-131** (Terminal) → **AP-132** (Entwicklung) → **AP-125 (f)** (Reste Dokument) → **AP-133** (Prüfung am Gerät) →
 **AP-134** (nichts geht verloren) → wie bisher **AP-126** → **APD-16 + AP-127** → **APD-17b + AP-130** → **AP-128** →
 **AP-129** → dann *Danach* der Reihe nach ab **AP-135**. Nicht übernommen: Q-08 Tempo großer Dateien, D-06 Serienbrief im
-Editor, D-07 Zusammenführen über die Cloud, T-04 Notenliste, E-03 große Dateien aufteilen.
+Editor, D-07 Zusammenführen über die Cloud, T-04 Notenliste, E-03 große Dateien aufteilen, F-07 Abstimmen
+im Hörsaal (gestrichen).
 
 ### AP-131 ☐ Server-Terminal ausbauen: Dateien, Verbindungen, Tabs · M–L (Analyse S-01 bis S-03, Hauptnutzer zuerst, D)
 **Ziel**: Das Server-Terminal (AP-118) ersetzt PuTTY **und** WinSCP für den Alltag an den eigenen Servern.
@@ -679,12 +680,10 @@ mach …“ in jedem Werkzeug vollständig geht. Der Test bleibt und verhindert 
 (Rechen-Sandbox), Erklärung in Klartext, Ergebnissatz im APA-Stil, Ergebnisse als Tabelle neben den Daten; Lora schlägt den
 passenden Test vor und nennt die Voraussetzungen.
 
-### AP-146 ☐ Folien für die Lehre · M–L (Analyse F-03, F-05, F-06, F-07)
+### AP-146 ☐ Folien für die Lehre · M (Analyse F-03, F-05, F-06)
 - **(a) Barrierefreiheits-Check** (F-03): Folientitel, Lesereihenfolge, Alternativtexte, Kontrast, mit *Beheben*.
 - **(b) Foliensatz übersetzen** (F-05): Layout und Notizen bleiben, zu lange Texte markiert.
 - **(c) Lückenhandout** (F-06): Handout mit ausgesparten Schlüsselbegriffen und Lösungsblatt.
-- **(d) Abstimmen im Hörsaal** (F-07): Frage-Folie mit QR-Code, Ergebnis live – **zuerst klären**, ob ein vorhandenes
-  Abstimmungswerkzeug der TU angebunden wird oder ein kleiner eigener Dienst nötig ist (Offene Frage).
 
 ### AP-147 ☐ Video für die Lehre · M (Analyse VI-01, VI-02, VI-03, D)
 - **(a) Export für Videocampus Sachsen und OPAL** (VI-01): Voreinstellung (Auflösung, Bitrate), Untertitel als VTT daneben,

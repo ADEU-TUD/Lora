@@ -2,7 +2,7 @@
 
 Wie die Werkzeuge in Lora besser werden: 85 Vorschläge aus dem Abgleich aller Werkzeuge mit ihren Vorbildern und dem Alltag
 an der TU Dresden (README, Arbeitsplan, Design-Arbeitsplan, Code). Was es schon gab oder schon geplant war (AP-126 bis AP-130,
-APD-16/17b, AP-87 bis AP-102), ist nicht enthalten. Der Hauptnutzer hat 80 übernommen; sie stehen als **AP-131 bis AP-154** im
+APD-16/17b, AP-87 bis AP-102), ist nicht enthalten. Der Hauptnutzer hat 79 übernommen (F-07 Abstimmen im Hörsaal danach gestrichen); sie stehen als **AP-131 bis AP-154** im
 [Arbeitsplan](ARBEITSPLAN.md) und als **APD-18/APD-19** im [Design-Arbeitsplan](DESIGN-ARBEITSPLAN.md). Priorität und Größe
 sind der Vorschlag der Analyse (Größe: S bis 1 Tag · M einige Tage · L 1–2 Wochen).
 
@@ -65,7 +65,7 @@ sind der Vorschlag der Analyse (Größe: S bis 1 Tag · M einige Tage · L 1–2
 | F-04 | **Vertonte Präsentation ohne Aufnahme** – Sprechertexte mit der natürlichen Stimme auf dem Gerät (AP-111) vorlesen lassen und als Video ausgeben – für Erklärvideos ohne eigene Aufnahme. | mittel | M | AP-141 |
 | F-05 | **Foliensatz übersetzen, Layout bleibt** – DE ↔ EN mit gleichem Layout, Notizen mit übersetzt; zu lange Texte werden markiert. | niedrig | S–M | AP-146 |
 | F-06 | **Lückenhandout für Studierende** – Aus den Folien ein Handout mit Lücken (Schlüsselbegriffe ausgespart) und Lösungsblatt. | niedrig | S | AP-146 |
-| F-07 | **Abstimmen im Hörsaal** – Frage-Folie mit QR-Code, Antworten per Handy, Ergebnis live auf der Folie. Braucht einen kleinen Dienst oder einen Export zu einem vorhandenen Abstimmungswerkzeug der TU – zuerst klären. | niedrig | L | AP-146 |
+| F-07 | **Abstimmen im Hörsaal** – Frage-Folie mit QR-Code, Antworten per Handy, Ergebnis live auf der Folie. Braucht einen kleinen Dienst oder einen Export zu einem vorhandenen Abstimmungswerkzeug der TU – zuerst klären. | niedrig | L | gestrichen |
 
 ## Gestalten und Whiteboard
 
